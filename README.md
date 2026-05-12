@@ -1,10 +1,15 @@
 #root@dipesh:~# whoami
+
+
+
 ██████╗ ██╗██████╗ ███████╗███████╗██╗  ██╗
 ██╔══██╗██║██╔══██╗██╔════╝██╔════╝██║  ██║
 ██║  ██║██║██████╔╝█████╗  ███████╗███████║
 ██║  ██║██║██╔═══╝ ██╔══╝  ╚════██║██╔══██║
 ██████╔╝██║██║     ███████╗███████║██║  ██║
 ╚═════╝ ╚═╝╚═╝     ╚══════╝╚══════╝╚═╝  ╚═╝
+
+
 
 ┌─────────────────────────────────────────────────────────┐
 │                   OPERATOR: DIPESH                      │
@@ -33,7 +38,7 @@ Linux & Cybersecurity Tools      [ █████░░░░░ ]  BUILDING
 Network Security                 [ ███░░░░░░░ ]  STUDYING
 C# & Scripting for Security      [ ██████░░░░ ]  GROWING
 
-Status: Every day is a new lesson. Stay curious. 🔍
+Status: Every day is a new lesson. Stay curious. 
 
 
 
