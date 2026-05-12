@@ -1,16 +1,39 @@
-## Hi there 👋
+#root@dipesh:~# whoami
+██████╗ ██╗██████╗ ███████╗███████╗██╗  ██╗
+██╔══██╗██║██╔══██╗██╔════╝██╔════╝██║  ██║
+██║  ██║██║██████╔╝█████╗  ███████╗███████║
+██║  ██║██║██╔═══╝ ██╔══╝  ╚════██║██╔══██║
+██████╔╝██║██║     ███████╗███████║██║  ██║
+╚═════╝ ╚═╝╚═╝     ╚══════╝╚══════╝╚═╝  ╚═╝
 
-<!--
-**Dipesh-12345/Dipesh-12345** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+┌─────────────────────────────────────────────────────────┐
+│                   OPERATOR: DIPESH                      │
+├─────────────────────────────────────────────────────────┤
+│  status        :  LEARNING new things...  🟡            │
+│  role          : Aspiring Cybersecurity Engineer        │
+│  focus         : Ethical Hacking · Pentesting           │
+│  exploring     : Digital Forensics · Linux              │
+│  level         : Beginner → Intermediate  📈            │
+│     │
+└─────────────────────────────────────────────────────────┘
 
-Here are some ideas to get you started:
+Ethical Hacking · Pentesting · Linux · Digital Forensics · 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Languages:
+C
+C#
+Python
+JavaScript
+
+## current_objectives
+
+ Ethical Hacking & Pentesting     [ ████░░░░░░ ]  LEARNING
+Digital Forensics                [ ███░░░░░░░ ]  EXPLORING
+Linux & Cybersecurity Tools      [ █████░░░░░ ]  BUILDING
+Network Security                 [ ███░░░░░░░ ]  STUDYING
+C# & Scripting for Security      [ ██████░░░░ ]  GROWING
+
+Status: Every day is a new lesson. Stay curious. 🔍
+
+
+
