@@ -12,11 +12,8 @@
 ██████╔╝██║██║     ███████╗███████║██║  ██║
 ╚═════╝ ╚═╝╚═╝     ╚══════╝╚══════╝╚═╝  ╚═╝
 
-<div align="center">
-
-```text
 Ethical Hacking & Pentesting     [ ████░░░░░░ ]  LEARNING
-Digital Forensics                [ ███░░░░░░░ ]  EXPLORING
-Linux & Cybersecurity Tools      [ █████░░░░░ ]  BUILDING
-Network Security                 [ ███░░░░░░░ ]  STUDYING
-C# & Scripting for Security      [ ██████░░░░ ]  GROWING
+Digital Forensics               [ ███░░░░░░░ ]  EXPLORING
+Linux & Cybersecurity Tools     [ █████░░░░░ ]  BUILDING
+ Networking & Penetration Testing [ ███░░░░░░░ ]  STUDYING
+C#,C, Python & Scripting for Security [ ██████░░░░ ]  GROWING
