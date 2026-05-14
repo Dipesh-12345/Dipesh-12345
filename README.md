@@ -4,23 +4,26 @@
 
 <h1 align="center">#root@dipesh:~# whoami</h1>
 
-``text
+```text
 ██████╗ ██╗██████╗ ███████╗███████╗██╗  ██╗
 ██╔══██╗██║██╔══██╗██╔════╝██╔════╝██║  ██║
 ██║  ██║██║██████╔╝█████╗  ███████╗███████║
 ██║  ██║██║██╔═══╝ ██╔══╝  ╚════██║██╔══██║
 ██████╔╝██║██║     ███████╗███████║██║  ██║
 ╚═════╝ ╚═╝╚═╝     ╚══════╝╚══════╝╚═╝  ╚═╝
-<p align="center">
+<div align="center">
 
-Ethical Hacking & Pentesting     [ ████░░░░░░ ]  LEARNING  
-Digital Forensics                [ ███░░░░░░░ ]  EXPLORING  
-Linux & Cybersecurity Tools      [ █████░░░░░ ]  BUILDING  
-Network Security                 [ ███░░░░░░░ ]  STUDYING  
-C# & Scripting for Security      [ ██████░░░░ ]  GROWING  
+```text
+Ethical Hacking & Pentesting     [ ████░░░░░░ ]  LEARNING
+Digital Forensics                [ ███░░░░░░░ ]  EXPLORING
+Linux & Cybersecurity Tools      [ █████░░░░░ ]  BUILDING
+Network Security                 [ ███░░░░░░░ ]  STUDYING
+C# & Scripting for Security      [ ██████░░░░ ]  GROWING
+```
 
-</p>
+</div>
 
+---
 
 ## 🔍 Interests
 
