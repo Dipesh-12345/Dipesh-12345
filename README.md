@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="profile.jpg" width="100%" />
+  <img src="profile.jpg" width="60%" />
 </p>
 
 <h1 align="center">#root@dipesh:~# whoami</h1>
