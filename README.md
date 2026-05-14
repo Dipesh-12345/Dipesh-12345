@@ -13,7 +13,7 @@
 ╚═════╝ ╚═╝╚═╝     ╚══════╝╚══════╝╚═╝  ╚═╝
 <div align="center">
 
-```text
+```
 Ethical Hacking & Pentesting     [ ████░░░░░░ ]  LEARNING
 Digital Forensics                [ ███░░░░░░░ ]  EXPLORING
 Linux & Cybersecurity Tools      [ █████░░░░░ ]  BUILDING
